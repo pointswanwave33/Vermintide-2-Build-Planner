@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Vermintide-2-Build-Planner` · Updated: 2026-10-07
+`Vermintide-2-Build-Planner` · Updated: 2026-10-24
 
 **Tags:** `vermintide-2` `build-planner` `co-op` `warhammer` `builds`
